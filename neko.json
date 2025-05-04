@@ -1,6 +1,8 @@
 {
-  	"ver":"1.0",
+    "cver":"1.0",
+    "bver":"1.2",
     "resver":"2",
+    "server-tz":"CST",
     "mian-server":"https://mc.nyacat.cloud:2087",
     "cdn-server":"https://api.nyacat.cloud"
   
