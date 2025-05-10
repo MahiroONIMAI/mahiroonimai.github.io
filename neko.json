@@ -3,7 +3,7 @@
     "bver":"1.2",
     "resver":"2",
     "server-tz":"CST",
-    "mian-server":"https://mc.nyacat.cloud:2087",
+    "main-server":"https://mc.nyacat.cloud:2087",
     "cdn-server":"https://api.nyacat.cloud"
   
 }
